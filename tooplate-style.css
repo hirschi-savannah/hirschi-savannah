@@ -31,6 +31,7 @@ a {
   text-decoration: none !important;
   transition: all 0.4s ease;
 }
+
 a:hover {
   color: #035da8 !important;
 }
@@ -491,3 +492,8 @@ b, strong {
 .insta{
   width: 26px;
 }
+
+.spons{
+  height: 90px;
+}
+
